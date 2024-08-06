@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Guimaraes2009
-- 👀 I’m interested in doctor
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in medicine
+- 🌱 I’m currently learning Quimica
+- 💞️ I’m looking to collaborate on vida financeira 
+- 📫 How to reach me 
+- 😄 Pronouns: NtGuimarães 
 - ⚡ Fun fact: ...
 
 <!---
